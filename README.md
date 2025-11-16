@@ -1,4 +1,4 @@
-## Hi I'm Darwin | Cloud Engineer | WitherStormDad👋
+## Hi I'm Darwin | WitherStormDad👋
 
 <!--
 **dbgalz11/dbgalz11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
