@@ -11,7 +11,7 @@ I build and break things in Entra ID, AKS, and Azure DevOps, then turn the hard-
 
 ### 🌱 Currently learning
 - **AI & AI Security** — securing AI workloads and identities, and the new attack surface that LLMs and agents introduce
-- Working toward **SC-300** (Identity & Access) and **SC-500** (Cloud and AI Security Engineer Associate)
+- Working towards **SC-500** (Cloud and AI Security Engineer Associate)
 
 ### 🛠️ Tech Stack
 
