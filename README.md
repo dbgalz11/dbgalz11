@@ -1,6 +1,6 @@
 ## Hi, I'm Darwin 👋
 
-**Azure Cloud & Security Engineer** specializing in **Identity Security** — securing the identity layer across Entra ID, OAuth 2.0 / OIDC, conditional access, and privileged access on Azure.
+**Azure Cloud Infra & Security Engineer** specializing in **Identity Security** — securing the identity layer across Entra ID, OAuth 2.0 / OIDC, conditional access, and privileged access on Azure.
 
 I build and break things in Entra ID, AKS, and Azure DevOps, then turn the hard-won lessons into content for aspiring cloud engineers — often in Tagalog, because good security education shouldn't be locked behind a language barrier.
 
