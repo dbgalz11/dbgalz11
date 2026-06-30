@@ -53,4 +53,4 @@ I build and break things in Entra ID, AKS, and Azure DevOps, then turn the hard-
 Off the clock, I'm spending time with my family and kids and prioritizing health. On the clock, constantly learning toward Identity Security and AI.
 
 ---
-*Identity is the new perimeter — and as AI reshapes that perimeter, I'm building toward the architecture that secures it.*
+*Hackers don't break in, they log in.*
